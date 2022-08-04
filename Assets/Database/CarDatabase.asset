@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c116a3d3b671c13449b9972e2d63bd30, type: 3}
+  m_Name: CarDatabase
+  m_EditorClassIdentifier: 
+  cars:
+  - carName: Audi
+    uid: 0
+    resourcesPath: car 1203 black
+    price: 698
+    Atributes:
+    - Name: 0
+      value: 5204
+    - Name: 1
+      value: double clutch
+    - Name: 3
+      value: 1670Kg
+  - carName: Fiat Punto
+    uid: 1
+    resourcesPath: car 1203 blue
+    price: 158
+    Atributes:
+    - Name: 0
+      value: 3204
+    - Name: 1
+      value: double clutch
+  - carName: Mercedes
+    uid: 2
+    resourcesPath: car 1203 yellow
+    price: 485
+    Atributes:
+    - Name: 0
+      value: 5105
+    - Name: 1
+      value: double clutch
+    - Name: 2
+      value: "7-stup\u0148ov\xE1"
+    - Name: 3
+      value: 1875Kg

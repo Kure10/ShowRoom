@@ -1,0 +1,9 @@
+{
+	"player": [
+		{
+			"Name": "Neco",
+			"Konec": "Ano",
+			"Mana": "Ne"
+		}
+	]
+}
